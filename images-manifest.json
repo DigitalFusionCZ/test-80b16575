@@ -1,0 +1,30 @@
+{
+  "generated_at": "2025-07-26T19:39:11.916Z",
+  "total_images": 3,
+  "images": [
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/BILA-LOGO-1024x609.png",
+      "file_path": "public/images/logo-main-white.png",
+      "file_name": "logo-main-white.png",
+      "description": "The primary logo for the VŠE PRO STAVBY.CZ website, featuring the company name in white, likely intended for use against darker backgrounds or as a standalone identity mark. The current dimensions (1024x609) are likely larger than needed for typical logo display, suggesting it might be used at a reduced size.",
+      "suggested_usage": "Resize and optimize for web. Use as the main site logo in the header/navigation. Consider creating an SVG version for scalability. Ensure proper alt text is added for accessibility, e.g., 'VŠE PRO STAVBY.CZ logo'.",
+      "size_bytes": 116158
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD2-scaled-1-1024x576.jpg",
+      "file_path": "public/images/gallery-tanvald-building.jpg",
+      "file_name": "gallery-tanvald-building.jpg",
+      "description": "An image depicting a finished building project or a significant structure, possibly in Tanvald as suggested by the original filename. It appears to be a photographic representation of the company's work, likely used to showcase completed projects or services.",
+      "suggested_usage": "Use in a project gallery, portfolio section, or as a supporting image on service pages to visually represent completed work. Add descriptive alt text, e.g., 'Completed building project in Tanvald' or 'New building construction by VŠE PRO STAVBY.CZ'.",
+      "size_bytes": 167094
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/RDPO.jpg",
+      "file_path": "public/images/gallery-residential-house.jpg",
+      "file_name": "gallery-residential-house.jpg",
+      "description": "An image of a residential house, likely a construction or renovation project undertaken by VŠE PRO STAVBY.CZ. The filename 'RDPO' is a technical or internal reference, but from a user perspective, it represents a residential dwelling.",
+      "suggested_usage": "Use in a project showcase, a 'Residential Projects' section, or on a page discussing house construction/reconstruction services. Ensure human-readable alt text is provided, such as 'Renovation of a residential house' or 'Completed new build residential project'.",
+      "size_bytes": 558411
+    }
+  ]
+}
